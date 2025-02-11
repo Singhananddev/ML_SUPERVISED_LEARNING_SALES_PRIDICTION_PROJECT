@@ -1,3 +1,6 @@
+![sales_prediction](https://github.com/user-attachments/assets/2d9f998a-b15a-4e4c-b539-7a9b16aa3bbc)
+
+
 **Supervised Learning Retail Sales Prediction Project**
 
 Welcome to the supervised learning retail sales prediction project repository. This project is aimed at predicting retail sales using machine learning techniques. By analyzing historical sales data, this project assists retailers in making informed decisions, optimizing inventory management, and enhancing sales strategies.
